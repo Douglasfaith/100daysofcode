@@ -11,12 +11,17 @@
 # from unicodedata import name
 
 
-#this code will store the input from the user
+
+# this code will store the input from the user
 num1 = input("Enter first number:")
 num2 = input("Enter second number:")
 
-#datatype coversion
-print (int(num1) + int(num2))
+print (int(num1) / int(num2))
+
+
+
+
+
 
 #this will add the input collected - float datatype int - whole numberb 
 #sum = float(num1) + float(num2)
